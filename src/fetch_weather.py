@@ -22,6 +22,6 @@ def fetch(lat, lon, start_date, end_date):
                    )
     return df
 
-df = fetch(LAT,LON,"2026-04-01","2026-04-15")
+df = fetch(LAT,LON,"2020-04-17","2026-04-17")
 print(df.head())
 df.to_csv(r'data/data.csv',index=False)
