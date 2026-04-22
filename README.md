@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Analiza Pogodowa – EDA
 
 Eksploracyjna analiza danych pogodowych z wykorzystaniem Pythona.
@@ -72,4 +71,4 @@ Zbiór danych zawiera **2192 obserwacje** dzienne z okresu od 2020-04-17 do 2026
 - Najbardziej wietrzne miesiące (grudzień-styczeń).
 - Suma opadów i częstość dni deszczowych są ze sobą silnie skorelowane.
 - Największa suma opadów wypada w **sierpniu** (~575 mm), a wysoka jest też w czerwcu i lipcu (~450–480 mm). Jednak **% dni deszczowych** jest najwyższy w **styczniu i lipcu** (~52.5%), a najniższy we wrześniu (~35%) — co oznacza, że we wrześniu opady są rzadsze, ale bardziej intensywne.
->>>>>>> fb1ccbc3b7a428e955b24e5c44570f6f3e4e8994
+
